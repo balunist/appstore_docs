@@ -3,9 +3,9 @@
 .. toctree::
    :maxdepth: 2
 
-########################
-Autodesk App Store Entry
-########################
+#######################
+MapBoards Pro App Store
+#######################
 
 Main Entry
 **********

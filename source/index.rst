@@ -2,4 +2,4 @@
    :maxdepth: 1
    :caption: Table of Contents
 
-   app_store
+   mbp_app_store
