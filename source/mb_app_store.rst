@@ -44,7 +44,7 @@ See `App Store Installs <https://balunist.github.io/mb_docs2/installation/app_st
 General Usage Instructions
 ==========================
 
-See `The Basics <https://balunist.github.io/mb_docs2/the_basics/index.html>`__ for an introduction to MapBoards 
+See `The Basics <https://balunist.github.io/mb_docs2/the-basics/index.html>`__ for an introduction to MapBoards 
 and an overview of the available features. Reading this user guide before getting started, will help you get the most 
 out of MapBoards.
 
