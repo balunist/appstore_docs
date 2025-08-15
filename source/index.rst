@@ -4,3 +4,4 @@
 
    mbp_app_store
    mb_app_store
+   svg_app_store

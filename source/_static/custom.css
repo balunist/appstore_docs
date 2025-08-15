@@ -6,8 +6,43 @@ body {
     text-align: center;
 }
 
+.yellow-bold {
+  color: yellow;
+  font-weight: bold;
+}
+
+.green-bold {
+  color: green;
+  font-weight: bold;
+}
+
+.cyan-bold {
+  color: cyan;
+  font-weight: bold;
+}
+
 .blue-bold {
   color: blue;
+  font-weight: bold;
+}
+
+.magenta-bold {
+  color: magenta;
+  font-weight: bold;
+}
+
+.white-bold {
+  color: white;
+  font-weight: bold;
+}
+
+.grey-bold {
+  color: grey;
+  font-weight: bold;
+}
+
+.black-bold {
+  color: black;
   font-weight: bold;
 }
 
