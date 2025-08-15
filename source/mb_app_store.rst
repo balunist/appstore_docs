@@ -13,12 +13,12 @@ MB Main Entry
 
 .. role:: blue-bold
 
-Note: This is the Mac OS release of MapBoards.  For the Windows release, click Win64 near the top of the page 
+**Note**: This is the Mac OS release of MapBoards.  For the Windows release, click Win64 near the top of the page 
 (under our logo, where it says OS).
 
 |
 
-MapBoards is a Autodesk Fusion 360 add-in designed to help with the arrangement of 3D components onto material
+**MapBoards** is a Autodesk Fusion 360 add-in designed to help with the arrangement of 3D components onto material
 boards for efficient manufacturing. It can also help users generate cut lists and flat panel layouts as DXF files.
 
 This add-in is a simpler version of MapBoards Pro, with fewer features and options. It is intended for users 
