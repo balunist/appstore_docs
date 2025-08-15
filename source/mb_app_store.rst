@@ -17,7 +17,6 @@ MB Main Entry
 (under our logo, where it says OS).
 
 |
-
 **MapBoards** is a Autodesk Fusion 360 add-in designed to help with the arrangement of 3D components onto material
 boards for efficient manufacturing. It can also help users generate cut lists and flat panel layouts as DXF files.
 
