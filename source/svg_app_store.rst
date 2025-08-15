@@ -20,11 +20,11 @@ SVG Main Entry
 .. role:: grey-bold
 .. role:: black-bold
 
-Note: This is the Mac OS release of Save As SVG.  For the Windows release, click Win64 near the top of the page 
+**Note**: This is the Mac OS release of Save As SVG.  For the Windows release, click Win64 near the top of the page 
 (under our logo, where it says OS).
 
 |
-Save As SVG is a powerful Autodesk Fusion 360® add-in that allows users to export sketches as SVG files. 
+**Save As SVG** is a powerful Autodesk Fusion 360® add-in that allows users to export sketches as SVG files. 
 
 Key Features and Functionality
 ==============================
