@@ -23,7 +23,7 @@ boards for efficient manufacturing. It can also help users generate cut lists an
 This add-in is a simpler version of MapBoards Pro, with fewer features and options. It is intended for users 
 who need basic functionality for arranging components and generating cut lists, without the advanced features 
 of the Pro version. For users needing more advanced features and options, the Pro version is recommended. 
-For the Pro version description, click here: `MapBoards Pro App Store <https://balunist.github.io/mbp_docs2/index.html#>`__
+For the Pro version description, click here: `MapBoards Pro Description <https://balunist.github.io/mbp_docs2/index.html#>`__
 
 Key Features and Functionality
 ==============================
