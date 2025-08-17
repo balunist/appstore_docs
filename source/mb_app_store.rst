@@ -20,10 +20,12 @@ MB Main Entry
 **MapBoards** is a Autodesk Fusion 360 add-in designed to help with the arrangement of 3D components onto material
 boards for efficient manufacturing. It can also help users generate cut lists and flat panel layouts as DXF files.
 
-This add-in is a simpler version of MapBoards Pro, with fewer features and options. It is intended for users 
-who need basic functionality for arranging components and generating cut lists, without the advanced features 
-of the Pro version. For users needing more advanced features and options, the Pro version is recommended. 
-For the Pro version description, click here: `MapBoards Pro Description <https://balunist.github.io/mbp_docs2/index.html#>`__
+
+This add-in is a simpler version of MapBoards Pro, with fewer features and options. There will **NOT** be any 
+further enhancements. It is intended for users who need basic functionality for arranging components and generating 
+cut lists, without the advanced features of the Pro version. You **cannot** upgrade to the Pro version. For users 
+needing more advanced features and options, the Pro version is recommended. For the Pro version description, 
+click here: `MapBoards Pro Description <https://balunist.github.io/mbp_docs2/index.html#>`__
 
 Key Features and Functionality
 ==============================
