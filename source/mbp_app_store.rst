@@ -13,13 +13,22 @@ MBP Main Entry
 
 .. role:: blue-bold
 
-**Note**: This is the Mac OS release of MapBoards Pro.  For the Windows release, click Win64 near the top of the page 
+**Note**: This is the **Mac OS** release of MapBoards Pro.  For the **Windows** release, click **Win64** near the top of the page 
 (under our logo, where it says OS).
 
 |
+
 **MapBoards Pro** is a Autodesk Fusion 360 add-in designed to optimize the arrangement of 3D components onto material
 boards for efficient manufacturing, particularly with laser cutters, CNC machines, and woodworking. It helps users
-create flat layouts, generate cut lists, and export designs as either SVG or DXF files.
+create flat layouts, generate cut lists, and export designs as either SVG or DXF files.  
+
+An In-App trial for PLUS features is available which unlocks additional capabilities that includes:
+
+- An arrange option that uses **Fusion's Arrange** feature to create a map using true shapes, full rotation and part-in-part to maximize material usage
+- Rearrange post-mapping task that uses **Fusion's Arrange** to rearrange a mapped board
+
+When the trial expires your entitlement will revert back to the perpetual license features of MapBoards Pro.  A subscription is available if you wish 
+to continue using the PLUS features.
 
 Key Features and Functionality
 ==============================
