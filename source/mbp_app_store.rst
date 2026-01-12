@@ -22,13 +22,15 @@ MBP Main Entry
 boards for efficient manufacturing, particularly with laser cutters, CNC machines, and woodworking. It helps users
 create flat layouts, generate cut lists, and export designs as either SVG or DXF files.  
 
-An In-App trial for PLUS features is available which unlocks additional capabilities that includes:
+An In-App subscription for **PLUS Features** which unlocks additional capabilities.  Currently this includes:
 
-- An arrange option that uses **Fusion's Arrange** feature to create a map using true shapes, full rotation and part-in-part to maximize material usage
-- Rearrange post-mapping task that uses **Fusion's Arrange** to rearrange a mapped board
+- An additional arrange option, **True Shapes**, that uses **Fusion's Arrange** feature to create a map with full rotation and part-in-part to maximize material usage
+- Rearrange Boards, a post-mapping task, which will allow rearranging individual boards using **any** of the four arrangement types, include True Shapes
+- Extends MapBoards Pro with support for Fusion 360's new **Assembly Designs** providing the same functionality as the legacy Hybrid Design
 
-When the trial expires your entitlement will revert back to the perpetual license features of MapBoards Pro.  A subscription is available if you wish 
-to continue using the PLUS features.
+A free 7 day trial is available, which can be selected when running the app.
+
+PLUS Features Description
 
 Key Features and Functionality
 ==============================
