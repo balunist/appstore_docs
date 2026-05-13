@@ -22,13 +22,12 @@ MBP Main Entry
 boards for efficient manufacturing, particularly with laser cutters, CNC machines, and woodworking. It helps users
 create flat layouts, generate cut lists, and export designs as either SVG or DXF files.  
 
-An In-App subscription for **PLUS Features** which unlocks additional capabilities.  Currently this includes:
+Unlock **Plus Features** via subscription or purchase with an **in-app upgrade**.  Currently this includes:
 
 - An additional arrange option, **True Shapes**, that uses **Fusion's Arrange** feature to create a map with full rotation and part-in-part to maximize material usage
 - Rearrange Boards, a post-mapping task, which will allow rearranging individual boards using **any** of the four arrangement types, include True Shapes
 - Extends MapBoards Pro with support for Fusion 360's new **Assembly Designs** providing the same functionality as the legacy Hybrid Design
-
-A free 7 day trial is available, which can be selected when running the app.
+- A free 7 day trial is available for the PLUS Features, which can be selected when running the app. 
 
 PLUS Features Description
 
@@ -46,7 +45,7 @@ Key Features and Functionality
 **Customization**:
   MBP offers various options for customizing the arrangement, including board dimensions, material types, and grain alignment.
 **Reporting**:
-  MBP can generate HTML reports with detailed information about the map, its components, and material requirements.
+  MBP can generate reports with detailed information about the map, its components, and material requirements as HTML or PDF files.
 **Integration with Fusion 360**:
   MBP seamlessly integrates into Fusion 360, allowing users to work directly within the design and manufacturing environment.
 
@@ -68,6 +67,8 @@ See detailed product description here `MapBoards Pro Description <https://baluni
 See `App Store Installs <https://balunist.github.io/mbp_docs2/installation/app_store.html>`__ for help with new or update installs.
 
 .. note:: MapBoards Pro can be launched using the toolbar icon or from the Create dropdown menu of the design workspace.
+
+|
 
 General Usage Instructions
 ==========================
